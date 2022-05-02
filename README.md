@@ -25,6 +25,20 @@
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [Looping with Numbers](./Linux%20Shell/Bash/looping-with-numbers.sh)                                           |
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [More on Conditionals](./Linux%20Shell/Bash/more-on-conditionals.sh)                                           |
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [The World of Numbers](./Linux%20Shell/Bash/the-world-of-numbers.sh)                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Awk 1](./Linux%20Shell/Grep%20Sed%20Awk/awk-1.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Awk 2](./Linux%20Shell/Grep%20Sed%20Awk/awk-2.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Awk 3](./Linux%20Shell/Grep%20Sed%20Awk/awk-3.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Awk 4](./Linux%20Shell/Grep%20Sed%20Awk/awk-4.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Grep 1](./Linux%20Shell/Grep%20Sed%20Awk/grep-1.sh)                                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Grep 2](./Linux%20Shell/Grep%20Sed%20Awk/grep-2.sh)                                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Grep 3](./Linux%20Shell/Grep%20Sed%20Awk/grep-3.sh)                                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Grep A](./Linux%20Shell/Grep%20Sed%20Awk/grep-a.sh)                                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Grep B](./Linux%20Shell/Grep%20Sed%20Awk/grep-b.sh)                                                           |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Sed 1](./Linux%20Shell/Grep%20Sed%20Awk/sed-1.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Sed 2](./Linux%20Shell/Grep%20Sed%20Awk/sed-2.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Sed 3](./Linux%20Shell/Grep%20Sed%20Awk/sed-3.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Sed 4](./Linux%20Shell/Grep%20Sed%20Awk/sed-4.sh)                                                             |
+| [Linux Shell](./Linux%20Shell/) | [Grep Sed Awk](./Linux%20Shell/Grep%20Sed%20Awk/)     | [Sed 5](./Linux%20Shell/Grep%20Sed%20Awk/sed-5.sh)                                                             |
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Cut 1](./Linux%20Shell/Text%20Processing/cut-1.sh)                                                            |
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Cut 2](./Linux%20Shell/Text%20Processing/cut-2.sh)                                                            |
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Cut 3](./Linux%20Shell/Text%20Processing/cut-3.sh)                                                            |
