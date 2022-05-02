@@ -10,6 +10,12 @@
 
 | Domain                          | Subdomain                                             | Solution                                                                                                       |
 | ------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Concatenate an Array with Itself](./Linux%20Shell/Arrays/concatenate-an-array-with-itself.sh)                 |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Count the Number of Elements in an Array](./Linux%20Shell/Arrays/count-the-number-of-elements-in-an-array.sh) |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Display an Element of an Array](./Linux%20Shell/Arrays/display-an-element-of-an-array.sh)                     |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Filter an Array with Patterns](./Linux%20Shell/Arrays/filter-an-array-with-patterns.sh)                       |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Read in an Array](./Linux%20Shell/Arrays/read-in-an-array.sh)                                                 |
+| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Slice an Array](./Linux%20Shell/Arrays/slice-an-array.sh)                                                     |
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [A Personnalized Echo](./Linux%20Shell/Bash/a-personalized-echo.sh)                                            |
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [Arithmetic Operations](./Linux%20Shell/Bash/arithmetic-operations.sh)                                         |
 | [Linux Shell](./Linux%20Shell/) | [BASH](./Linux%20Shell/Bash)                          | [Comparing Numbers](./Linux%20Shell/Bash/comparing-numbers.sh)                                                 |
@@ -47,9 +53,3 @@
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Uniq 2](./Linux%20Shell/Text%20Processing/uniq-2.sh)                                                          |
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Uniq 3](./Linux%20Shell/Text%20Processing/uniq-3.sh)                                                          |
 | [Linux Shell](./Linux%20Shell/) | [Text Processing](./Linux%20Shell/Text%20Processing/) | [Uniq 4](./Linux%20Shell/Text%20Processing/uniq-4.sh)                                                          |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Concatenate an Array with Itself](./Linux%20Shell/Arrays/concatenate-an-array-with-itself.sh)                 |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Count the Number of Elements in an Array](./Linux%20Shell/Arrays/count-the-number-of-elements-in-an-array.sh) |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Display an Element of an Array](./Linux%20Shell/Arrays/display-an-element-of-an-array.sh)                     |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Filter an Array with Patterns](./Linux%20Shell/Arrays/filter-an-array-with-patterns.sh)                       |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Read in an Array](./Linux%20Shell/Arrays/read-in-an-array.sh)                                                 |
-| [Linux Shell](./Linux%20Shell/) | [Arrays](./Linux%20Shell/Arrays/)                     | [Slice an Array](./Linux%20Shell/Arrays/slice-an-array.sh)                                                     |
